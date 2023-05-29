@@ -14,7 +14,7 @@ Overview:
   <img src="imgs/overview.png" alt="demo">
 </p>
 
-## Qualitative results for DTU (left) and SK3D (right).
+## Reconstruct surface and materials for DTU (left) and SK3D (right).
 <p align="center">
   <img src="imgs/dtu_sk3d_mesh.png" alt="demo">
 </p>
@@ -23,7 +23,7 @@ Overview:
   <img src="imgs/dtu_sk3d_materials.png" alt="demo">
 </p>
 
-## Qualitative results for the Shiny dataset.
+## Reconstruct surface and materials for the Shiny dataset.
 <p align="center">
   <img src="imgs/shiny_mesh.png" alt="demo">
 </p>
@@ -32,7 +32,7 @@ Overview:
   <img src="imgs/shiny_materials.png" alt="demo">
 </p>
 
-## Material decomposition
+## Reconstruct materials and illumination.
 <p align="center">
   <img src="imgs/syn_materials.png" alt="demo">
 </p>
