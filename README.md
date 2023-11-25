@@ -43,7 +43,7 @@ Overview:
 
 ## Diffuse and specular decomposition results in the first stage
 <p align="center">
-  <img src="imgs/fig/first_stage.png" alt="demo">
+  <img src="imgs/git_fig/first_stage.png" alt="demo">
 </p>
 
 
