@@ -11,7 +11,7 @@ We develop a method that recovers the surface, materials, and illumination of a 
 
 Overview:
 <p align="center">
-  <img src="imgs/overview.png" alt="demo">
+  <img src="imgs/overview_all_stage.png" alt="demo">
 </p>
 
 ## Reconstruct surface and materials for DTU (left) and SK3D (right).
