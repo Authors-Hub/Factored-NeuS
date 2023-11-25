@@ -41,3 +41,9 @@ Overview:
   <img src="imgs/syn_ablation.png" alt="demo">
 </p>
 
+## Diffuse and specular decomposition results in the first stage
+<p align="center">
+  <img src="imgs/fig/first_stage.png" alt="demo">
+</p>
+
+
