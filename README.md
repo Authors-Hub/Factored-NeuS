@@ -46,4 +46,29 @@ Overview:
   <img src="imgs/git_fig/first_stage.png" alt="demo">
 </p>
 
+## Results from the first stage
+<p align="center">
+  <img src="imgs/git_fig/all_synthetic.png" alt="demo">
+</p>
+<p align="center">
+  <img src="imgs/git_fig/all_dtu.png" alt="demo">
+</p>
+<p align="center">
+  <img src="imgs/git_fig/all_sk3d.png" alt="demo">
+</p>
 
+## Additional mesh comparison results.
+<p align="center">
+  <img src="imgs/git_fig/compare_dtu.png" alt="demo">
+</p>
+<p align="center">
+  <img src="imgs/git_fig/compare_sk3d.png" alt="demo">
+</p>
+<p align="center">
+  <img src="imgs/git_fig/compare_glossy.png" alt="demo">
+</p>
+
+## Relighting comparisons.
+<p align="center">
+  <img src="imgs/git_fig/compare_relighting.png" alt="demo">
+</p>
