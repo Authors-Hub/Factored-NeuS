@@ -37,7 +37,7 @@ Overview:
   <img src="imgs/syn_materials.png" alt="demo">
 </p>
 
-<video id="video" controls="" preload="none" poster="rendering">
+<video id="video" controls="" preload="none">
       <source id="mp4" src="video/hotdog/rendering.mp4" type="video/mp4">
 </video>
 
