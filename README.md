@@ -16,6 +16,14 @@ Overview:
   <img src="imgs/overview_all_stage.png" alt="demo">
 </p>
 
+<div class="image-container">
+<img height=100 width=100  src="video/hotdog/rendering.gif">
+<img height=100 width=100 src="video/hotdog/albedo.gif">
+<img height=100 width=100 src="videohotdog/indirect light.gif">
+<img height=100 width=100 src="video/hotdog/light visibility.gif">
+<img height=100 width=100 src="video/hotdog/relighting.gif">
+</div>
+
 ## Reconstruct surface and materials for DTU (left) and SK3D (right).
 <p align="center">
   <img src="imgs/dtu_sk3d_mesh.png" alt="demo">
