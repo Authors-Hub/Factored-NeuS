@@ -6,11 +6,11 @@
 </p>
 
 <div class="image-container">
-<img height=100 width=100  src="video/hotdog/rendering.gif">
-<img height=100 width=100 src="video/hotdog/albedo.gif">
-<img height=100 width=100 src="videohotdog/indirect light.gif">
-<img height=100 width=100 src="video/hotdog/light visibility.gif">
-<img height=100 width=100 src="video/hotdog/relighting.gif">
+<img height=200 width=200  src="video/hotdog/rendering.gif">
+<img height=200 width=200 src="video/hotdog/albedo.gif">
+<img height=200 width=200 src="video/hotdog/indirect light.gif">
+<img height=200 width=200 src="video/hotdog/light visibility.gif">
+<img height=200 width=200 src="video/hotdog/relighting.gif">
 </div>
 
 
