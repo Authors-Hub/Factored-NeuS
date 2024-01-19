@@ -5,7 +5,7 @@
   <img src="imgs/moti_2.png" alt="demo">
 </p>
 
-<iframe src="video/hotdog_baloons.mp4">
+<iframe src="video/hotdog_baloons.mp4"/>
 
 
 ## Abstract
