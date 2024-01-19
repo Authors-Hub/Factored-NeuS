@@ -5,7 +5,13 @@
   <img src="imgs/moti_2.png" alt="demo">
 </p>
 
-
+<div class="image-container">
+<img height=180 width=180  src="video/hotdog/rendering.gif">
+<img height=180 width=180 src="video/hotdog/albedo.gif">
+<img height=180 width=180 src="video/hotdog/indirect light.gif">
+<img height=180 width=180 src="video/hotdog/light visibility.gif">
+<img height=180 width=180 src="video/hotdog/relighting.gif">
+</div>
 
 
 ## Abstract
