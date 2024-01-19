@@ -39,7 +39,7 @@ Overview:
 
 <video id="video" controls="" preload="none" poster="rendering">
       <source id="mp4" src="video/hotdog/rendering.mp4" type="video/mp4">
-</videos>
+</video>
 
 <p align="center">
   <img src="imgs/syn_ablation.png" alt="demo">
