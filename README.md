@@ -5,7 +5,10 @@
   <img src="imgs/moti_2.png" alt="demo">
 </p>
 
-<iframe src="video/hotdog_baloons.mp4"/>
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="video/hotdog_baloons.mp4" type="video/mp4">
+</video>
+
 
 
 ## Abstract
