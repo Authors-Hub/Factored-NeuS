@@ -5,8 +5,8 @@
   <img src="imgs/moti_2.png" alt="demo">
 </p>
 
-<video width="2580" height="1080" controls>
-  <source src="video/hotdog_baloons_jugs.mp4" type="video/mp4">
+<video width="1352" height="864" controls>
+  <source src="video/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
