@@ -77,3 +77,8 @@ Overview:
 <p align="center">
   <img src="imgs/git_fig/compare_relighting.png" alt="demo">
 </p>
+
+## Chrome-like materials.
+<p align="center">
+  <img src="imgs/git_fig/fresnel.png" alt="demo">
+</p>
