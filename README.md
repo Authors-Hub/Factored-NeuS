@@ -5,13 +5,10 @@
   <img src="imgs/moti_2.png" alt="demo">
 </p>
 
-<div class="image-container">
-<img height=180 width=180  src="video/hotdog/rendering.gif">
-<img height=180 width=180 src="video/hotdog/albedo.gif">
-<img height=180 width=180 src="video/hotdog/light visibility.gif">
-  <img height=180 width=180 src="video/hotdog/indirect light.gif">
-<img height=180 width=180 src="video/hotdog/relighting.gif">
-</div>
+<video width="2580" height="1080" controls>
+  <source src="video/hotdog_baloons_jugs.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Abstract
