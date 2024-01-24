@@ -7,7 +7,7 @@
 
 ### Video
 <video width="1010" height="648" controls>
-  <source src="video/video.mp4" type="video/mp4">
+  <source src="video/videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
